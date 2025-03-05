@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd6f8b1aafad7d43a57c044f89c3a0f, type: 3}
+  m_Name: playerEquipedItem
+  m_EditorClassIdentifier: 
+  <weapon>k__BackingField: {fileID: 11400000, guid: 71b78887a766bf24b8fcf2a271b88f42, type: 2}
+  <shield>k__BackingField: {fileID: 11400000, guid: dcb2c67c0b410eb4b96d05ff32228403, type: 2}
+  <helmet>k__BackingField: {fileID: 11400000, guid: a89c7fcec3fa6434b9b93ac58bab722c, type: 2}
+  <chestplate>k__BackingField: {fileID: 11400000, guid: b606c9d8db5fda74f9d5add077c27d36, type: 2}
+  <belt>k__BackingField: {fileID: 11400000, guid: 306fd368d1e356347bc1c16ed16b219c, type: 2}
+  <boots>k__BackingField: {fileID: 11400000, guid: 583489439b87005429595679e9992a82, type: 2}

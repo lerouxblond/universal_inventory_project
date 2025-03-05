@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee55ab6cea3ea164c93cc46a56d92dc8, type: 3}
+  m_Name: Pomme
+  m_EditorClassIdentifier: 
+  <isStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 50
+  <itemName>k__BackingField: Pomme
+  <itemDescription>k__BackingField: Une pomme qui soigne un peu.
+  <itemImage>k__BackingField: {fileID: 21300000, guid: da7129ed6a246f048a49d8d97de2d2d4, type: 3}
+  modifiersData:
+  - statsModifier: {fileID: 11400000, guid: 3668cb853ee30e64298ebb472e7ec8f7, type: 2}
+    value: 3
